@@ -6,3 +6,7 @@ dl_dxf.o
 dl_writer_ascii.o
 
 lib/liblibdxf_d.a
+
+config.log
+
+config.status

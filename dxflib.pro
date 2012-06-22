@@ -10,8 +10,8 @@ win32-msvc {
 }
 
 macx {
-  QMAKE_MAC_SDK=/Developer/SDKs/MacOSX10.5.sdk
-  CONFIG+=x86 ppc
+  QMAKE_MAC_SDK=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
+  CONFIG+=x86_64 x86
 }
 
 INCLUDEPATH += src
